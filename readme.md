@@ -91,6 +91,10 @@ Team lead: Tim McLerran tmclerran@gmail.com
   - Package the import code and the database in a conventiently reusable way
   - Reflect on and publish lessons learned 
 
+#### Project: Create a clinical information exchange API using OMOP and FHIR
+
+#### Project: Create a data science portal using GraphQL
+
 ---
 ### Program: Incorporate multi-modal data including imaging, time-series data, genomics, metabolomics, etc.
 - Program infrastructure and project enablement
