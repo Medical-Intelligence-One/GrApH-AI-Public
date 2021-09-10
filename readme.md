@@ -1,4 +1,4 @@
-![GrApH AI](img/thumbnail_group_name.png)  
+![MI-1 Build](img/MI-1 Vision Core vs Community.png)  
 
 <!-- TABLE OF CONTENTS -->
 1. [Introduction](#introduction)
